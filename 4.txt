@@ -1,1 +1,1 @@
-Quando o valor é escrito por estenso ao usar o float(),o program tenta converter o valor de texto fornecido(string) em um número,o que não é possivel na maioria dos casos,causando um erro e parandfo o programa.
+Quando o valor é escrito por estenso ao usar o float(),o program tenta converter o valor de texto fornecido(string) em um número,o que não é possivel na maioria dos casos,causando um erro e parando o programa.
